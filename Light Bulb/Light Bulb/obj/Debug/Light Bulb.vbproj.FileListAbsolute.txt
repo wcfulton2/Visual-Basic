@@ -1,0 +1,26 @@
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\bin\Debug\Light Bulb.exe.config
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\bin\Debug\Light Bulb.exe
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\bin\Debug\Light Bulb.pdb
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\bin\Debug\Light Bulb.xml
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\obj\Debug\Light Bulb.vbprojResolveAssemblyReference.cache
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\obj\Debug\Light_Bulb.Form1.resources
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\obj\Debug\Light_Bulb.Resources.resources
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\obj\Debug\Light Bulb.vbproj.GenerateResource.Cache
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\obj\Debug\Light Bulb.exe
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\obj\Debug\Light Bulb.xml
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\obj\Debug\Light Bulb.pdb
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Bfult\Desktop\Light Bulb\Light Bulb\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\bin\Debug\Light Bulb.exe.config
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\obj\Debug\Light Bulb.exe
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\obj\Debug\Light Bulb.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\obj\Debug\Light Bulb.pdb
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\bin\Debug\Light Bulb.exe
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\bin\Debug\Light Bulb.pdb
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\bin\Debug\Light Bulb.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\obj\Debug\Light Bulb.vbprojResolveAssemblyReference.cache
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\obj\Debug\Light_Bulb.Form1.resources
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\obj\Debug\Light_Bulb.Resources.resources
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 1\Light Bulb\Light Bulb\obj\Debug\Light Bulb.vbproj.GenerateResource.Cache

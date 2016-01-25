@@ -1,0 +1,26 @@
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.exe.config
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.exe
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.pdb
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.xml
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.vbprojResolveAssemblyReference.cache
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\obj\Debug\Checking_Account_Balance.Form1.resources
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\obj\Debug\Checking_Account_Balance.Resources.resources
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.vbproj.GenerateResource.Cache
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.exe
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.xml
+C:\Users\Bfult\Desktop\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.pdb
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.exe.config
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.exe
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.pdb
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.exe
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.pdb
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.vbprojResolveAssemblyReference.cache
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\obj\Debug\Checking_Account_Balance.Form1.resources
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\obj\Debug\Checking_Account_Balance.Resources.resources
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 3\Checking Account Balance\Checking Account Balance\obj\Debug\Checking Account Balance.vbproj.GenerateResource.Cache

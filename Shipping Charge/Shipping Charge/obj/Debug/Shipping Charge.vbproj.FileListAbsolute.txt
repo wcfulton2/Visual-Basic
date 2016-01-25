@@ -1,0 +1,26 @@
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\bin\Debug\Shipping Charge.exe.config
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\bin\Debug\Shipping Charge.exe
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\bin\Debug\Shipping Charge.pdb
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\bin\Debug\Shipping Charge.xml
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.vbprojResolveAssemblyReference.cache
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\obj\Debug\Shipping_Charge.Form1.resources
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\obj\Debug\Shipping_Charge.Resources.resources
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.vbproj.GenerateResource.Cache
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.exe
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.xml
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.pdb
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Bfult\Desktop\Shipping Charge\Shipping Charge\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\bin\Debug\Shipping Charge.exe.config
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.exe
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.pdb
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\bin\Debug\Shipping Charge.exe
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\bin\Debug\Shipping Charge.pdb
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\bin\Debug\Shipping Charge.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.vbprojResolveAssemblyReference.cache
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\obj\Debug\Shipping_Charge.Form1.resources
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\obj\Debug\Shipping_Charge.Resources.resources
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 2\Shipping Charge\Shipping Charge\obj\Debug\Shipping Charge.vbproj.GenerateResource.Cache
