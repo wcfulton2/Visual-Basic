@@ -86,7 +86,6 @@ Public Class Form1
         End If
         allSales += salesLocal
         Return salesLocal
-
     End Function
 
     Private Sub FontToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FontToolStripMenuItem.Click
@@ -94,8 +93,8 @@ Public Class Form1
 
         If font = DialogResult.OK Then
             totalPayTxt.Font = FontDialog1.Font
+            commissionTxt.Font = FontDialog1.Font
         End If
-
     End Sub
 
     Private Sub ColorToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ColorToolStripMenuItem.Click
