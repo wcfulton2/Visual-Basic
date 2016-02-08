@@ -20,11 +20,8 @@ C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\A
 C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\bin\Debug\Auto Repair Program.pdb
 C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\bin\Debug\Auto Repair Program.xml
 C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto Repair Program.vbprojResolveAssemblyReference.cache
-C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.AboutBox1.resources
-C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.Form1.resources
 C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.JobInformationForm.resources
 C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.Resources.resources
-C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.SplashScreen1.resources
 C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto Repair Program.vbproj.GenerateResource.Cache
 C:\Users\Bfult\Desktop\Newest - Auto Repair Program\Auto Repair Program\bin\Debug\Auto Repair Program.exe.config
 C:\Users\Bfult\Desktop\Newest - Auto Repair Program\Auto Repair Program\obj\Debug\Auto Repair Program.exe
@@ -40,3 +37,6 @@ C:\Users\Bfult\Desktop\Newest - Auto Repair Program\Auto Repair Program\obj\Debu
 C:\Users\Bfult\Desktop\Newest - Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.Resources.resources
 C:\Users\Bfult\Desktop\Newest - Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.SplashScreen1.resources
 C:\Users\Bfult\Desktop\Newest - Auto Repair Program\Auto Repair Program\obj\Debug\Auto Repair Program.vbproj.GenerateResource.Cache
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.MainForm.resources
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.IntroSplashScreen.resources
+C:\Users\Bfult\Desktop\School Stuff\Visual Basic\Seminar 5\Auto Repair Program\Auto Repair Program\obj\Debug\Auto_Repair_Program.AboutForm.resources

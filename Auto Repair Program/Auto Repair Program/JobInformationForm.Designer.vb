@@ -50,7 +50,7 @@ Partial Class JobInformationForm
         Me.jobNumberTxt.Location = New System.Drawing.Point(92, 38)
         Me.jobNumberTxt.Name = "jobNumberTxt"
         Me.jobNumberTxt.Size = New System.Drawing.Size(100, 20)
-        Me.jobNumberTxt.TabIndex = 0
+        Me.jobNumberTxt.TabIndex = 3
         '
         'customerNameTxt
         '
@@ -64,14 +64,14 @@ Partial Class JobInformationForm
         Me.wholesalePartsTxt.Location = New System.Drawing.Point(92, 64)
         Me.wholesalePartsTxt.Name = "wholesalePartsTxt"
         Me.wholesalePartsTxt.Size = New System.Drawing.Size(100, 20)
-        Me.wholesalePartsTxt.TabIndex = 2
+        Me.wholesalePartsTxt.TabIndex = 5
         '
         'hoursOfLaborTxt
         '
         Me.hoursOfLaborTxt.Location = New System.Drawing.Point(92, 90)
         Me.hoursOfLaborTxt.Name = "hoursOfLaborTxt"
         Me.hoursOfLaborTxt.Size = New System.Drawing.Size(100, 20)
-        Me.hoursOfLaborTxt.TabIndex = 3
+        Me.hoursOfLaborTxt.TabIndex = 7
         '
         'jobNumberLbl
         '
@@ -79,7 +79,7 @@ Partial Class JobInformationForm
         Me.jobNumberLbl.Location = New System.Drawing.Point(7, 41)
         Me.jobNumberLbl.Name = "jobNumberLbl"
         Me.jobNumberLbl.Size = New System.Drawing.Size(67, 13)
-        Me.jobNumberLbl.TabIndex = 4
+        Me.jobNumberLbl.TabIndex = 2
         Me.jobNumberLbl.Text = "&Job Number:"
         '
         'customerNameLbl
@@ -88,7 +88,7 @@ Partial Class JobInformationForm
         Me.customerNameLbl.Location = New System.Drawing.Point(7, 15)
         Me.customerNameLbl.Name = "customerNameLbl"
         Me.customerNameLbl.Size = New System.Drawing.Size(85, 13)
-        Me.customerNameLbl.TabIndex = 5
+        Me.customerNameLbl.TabIndex = 0
         Me.customerNameLbl.Text = "C&ustomer Name:"
         '
         'wholesalePartsLbl
@@ -97,7 +97,7 @@ Partial Class JobInformationForm
         Me.wholesalePartsLbl.Location = New System.Drawing.Point(7, 67)
         Me.wholesalePartsLbl.Name = "wholesalePartsLbl"
         Me.wholesalePartsLbl.Size = New System.Drawing.Size(73, 13)
-        Me.wholesalePartsLbl.TabIndex = 6
+        Me.wholesalePartsLbl.TabIndex = 4
         Me.wholesalePartsLbl.Text = "&Price of Parts:"
         '
         'hoursOfLaborLbl
@@ -106,7 +106,7 @@ Partial Class JobInformationForm
         Me.hoursOfLaborLbl.Location = New System.Drawing.Point(7, 93)
         Me.hoursOfLaborLbl.Name = "hoursOfLaborLbl"
         Me.hoursOfLaborLbl.Size = New System.Drawing.Size(80, 13)
-        Me.hoursOfLaborLbl.TabIndex = 7
+        Me.hoursOfLaborLbl.TabIndex = 6
         Me.hoursOfLaborLbl.Text = "&Hours of Labor:"
         '
         'partsTotalTxt
@@ -115,7 +115,7 @@ Partial Class JobInformationForm
         Me.partsTotalTxt.Name = "partsTotalTxt"
         Me.partsTotalTxt.ReadOnly = True
         Me.partsTotalTxt.Size = New System.Drawing.Size(100, 20)
-        Me.partsTotalTxt.TabIndex = 8
+        Me.partsTotalTxt.TabIndex = 18
         '
         'laborTotalTxt
         '
@@ -123,7 +123,7 @@ Partial Class JobInformationForm
         Me.laborTotalTxt.Name = "laborTotalTxt"
         Me.laborTotalTxt.ReadOnly = True
         Me.laborTotalTxt.Size = New System.Drawing.Size(100, 20)
-        Me.laborTotalTxt.TabIndex = 9
+        Me.laborTotalTxt.TabIndex = 12
         '
         'subtotalTxt
         '
@@ -131,7 +131,7 @@ Partial Class JobInformationForm
         Me.subtotalTxt.Name = "subtotalTxt"
         Me.subtotalTxt.ReadOnly = True
         Me.subtotalTxt.Size = New System.Drawing.Size(100, 20)
-        Me.subtotalTxt.TabIndex = 10
+        Me.subtotalTxt.TabIndex = 14
         '
         'salesTaxTxt
         '
@@ -139,7 +139,7 @@ Partial Class JobInformationForm
         Me.salesTaxTxt.Name = "salesTaxTxt"
         Me.salesTaxTxt.ReadOnly = True
         Me.salesTaxTxt.Size = New System.Drawing.Size(100, 20)
-        Me.salesTaxTxt.TabIndex = 11
+        Me.salesTaxTxt.TabIndex = 16
         '
         'totalTxt
         '
@@ -147,7 +147,7 @@ Partial Class JobInformationForm
         Me.totalTxt.Name = "totalTxt"
         Me.totalTxt.ReadOnly = True
         Me.totalTxt.Size = New System.Drawing.Size(100, 20)
-        Me.totalTxt.TabIndex = 12
+        Me.totalTxt.TabIndex = 20
         '
         'partsTotalLbl
         '
@@ -155,8 +155,8 @@ Partial Class JobInformationForm
         Me.partsTotalLbl.Location = New System.Drawing.Point(7, 263)
         Me.partsTotalLbl.Name = "partsTotalLbl"
         Me.partsTotalLbl.Size = New System.Drawing.Size(64, 13)
-        Me.partsTotalLbl.TabIndex = 13
-        Me.partsTotalLbl.Text = "Pa&rts + Tax:"
+        Me.partsTotalLbl.TabIndex = 17
+        Me.partsTotalLbl.Text = "Parts + Tax:"
         '
         'laborTotalLbl
         '
@@ -164,8 +164,8 @@ Partial Class JobInformationForm
         Me.laborTotalLbl.Location = New System.Drawing.Point(7, 181)
         Me.laborTotalLbl.Name = "laborTotalLbl"
         Me.laborTotalLbl.Size = New System.Drawing.Size(61, 13)
-        Me.laborTotalLbl.TabIndex = 14
-        Me.laborTotalLbl.Text = "&Labor Cost:"
+        Me.laborTotalLbl.TabIndex = 11
+        Me.laborTotalLbl.Text = "Labor Cost:"
         '
         'subtotalLbl
         '
@@ -173,8 +173,8 @@ Partial Class JobInformationForm
         Me.subtotalLbl.Location = New System.Drawing.Point(7, 210)
         Me.subtotalLbl.Name = "subtotalLbl"
         Me.subtotalLbl.Size = New System.Drawing.Size(49, 13)
-        Me.subtotalLbl.TabIndex = 15
-        Me.subtotalLbl.Text = "&Subtotal:"
+        Me.subtotalLbl.TabIndex = 13
+        Me.subtotalLbl.Text = "Subtotal:"
         '
         'salesTaxLbl
         '
@@ -182,8 +182,8 @@ Partial Class JobInformationForm
         Me.salesTaxLbl.Location = New System.Drawing.Point(7, 237)
         Me.salesTaxLbl.Name = "salesTaxLbl"
         Me.salesTaxLbl.Size = New System.Drawing.Size(57, 13)
-        Me.salesTaxLbl.TabIndex = 16
-        Me.salesTaxLbl.Text = "S&ales Tax:"
+        Me.salesTaxLbl.TabIndex = 15
+        Me.salesTaxLbl.Text = "Sales Tax:"
         '
         'totalLbl
         '
@@ -191,15 +191,15 @@ Partial Class JobInformationForm
         Me.totalLbl.Location = New System.Drawing.Point(7, 294)
         Me.totalLbl.Name = "totalLbl"
         Me.totalLbl.Size = New System.Drawing.Size(34, 13)
-        Me.totalLbl.TabIndex = 17
-        Me.totalLbl.Text = "T&otal:"
+        Me.totalLbl.TabIndex = 19
+        Me.totalLbl.Text = "Total:"
         '
         'calculateBtn
         '
         Me.calculateBtn.Location = New System.Drawing.Point(14, 353)
         Me.calculateBtn.Name = "calculateBtn"
         Me.calculateBtn.Size = New System.Drawing.Size(75, 23)
-        Me.calculateBtn.TabIndex = 18
+        Me.calculateBtn.TabIndex = 8
         Me.calculateBtn.Text = "&Calculate"
         Me.calculateBtn.UseVisualStyleBackColor = True
         '
@@ -208,8 +208,8 @@ Partial Class JobInformationForm
         Me.clearBtn.Location = New System.Drawing.Point(105, 353)
         Me.clearBtn.Name = "clearBtn"
         Me.clearBtn.Size = New System.Drawing.Size(75, 23)
-        Me.clearBtn.TabIndex = 19
-        Me.clearBtn.Text = "Clea&r"
+        Me.clearBtn.TabIndex = 9
+        Me.clearBtn.Text = "C&lear"
         Me.clearBtn.UseVisualStyleBackColor = True
         '
         'okBtn
@@ -217,7 +217,7 @@ Partial Class JobInformationForm
         Me.okBtn.Location = New System.Drawing.Point(196, 353)
         Me.okBtn.Name = "okBtn"
         Me.okBtn.Size = New System.Drawing.Size(75, 23)
-        Me.okBtn.TabIndex = 20
+        Me.okBtn.TabIndex = 10
         Me.okBtn.Text = "O&K"
         Me.okBtn.UseVisualStyleBackColor = True
         '

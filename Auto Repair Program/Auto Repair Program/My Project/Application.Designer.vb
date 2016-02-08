@@ -32,12 +32,12 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Auto_Repair_Program.Form1
+            Me.MainForm = Global.Auto_Repair_Program.MainForm
         End Sub
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateSplashScreen()
-            Me.SplashScreen = Global.Auto_Repair_Program.SplashScreen1
+            Me.SplashScreen = Global.Auto_Repair_Program.IntroSplashScreen
         End Sub
     End Class
 End Namespace
