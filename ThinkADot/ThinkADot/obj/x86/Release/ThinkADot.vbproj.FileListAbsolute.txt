@@ -1,0 +1,19 @@
+C:\Users\gcummi01\AppData\Local\Temporary Projects\ThinkADot\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\gcummi01\AppData\Local\Temporary Projects\ThinkADot\obj\x86\Release\ThinkADot.ThinkADot.resources
+C:\Users\gcummi01\AppData\Local\Temporary Projects\ThinkADot\obj\x86\Release\ThinkADot.Resources.resources
+C:\Users\gcummi01\AppData\Local\Temporary Projects\ThinkADot\obj\x86\Release\ThinkADot.Flipper.resources
+C:\Users\gcummi01\AppData\Local\Temporary Projects\ThinkADot\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\gcummi01\AppData\Local\Temporary Projects\ThinkADot\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\bin\Release\ThinkADot.exe
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\bin\Release\ThinkADot.pdb
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\bin\Release\ThinkADot.xml
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\ThinkADot.Form1.resources
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\ThinkADot.Resources.resources
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\ThinkADot.Flipper.resources
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\ThinkADot.exe
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\ThinkADot.xml
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\ThinkADot.pdb
+C:\Users\gcummi01\Documents\CIS310\ThinkADot\ThinkADot\obj\x86\Release\ThinkADot.ThinkADot.resources
